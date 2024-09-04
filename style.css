@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(255, 255, 210);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+.indexMenuH1{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.indexMenu{
+    background-color: red;
+    color: yellow;
+}
+
+.indexListItem{
+    text-align: center;
+    font-size: 17px;
+    list-style-type: none;
+    text-align: center;
+    background: url(img/icons8-arrow-50.png) 0 50% no-repeat;
+}
+
+.indexMenuListItem{
+    text-decoration: underline;
+    color: yellow;
+    align-items: center;
+}
+
+.navList{
+    background-color: red;
+    color: yellow;
+    text-align: center;
+}
+
+.navListItem{
+    text-decoration: none;
+    list-style-type: none;
+    background: url(img/icons8-arrow-50.png) 0 50% no-repeat;
+}
+
+.navListItem .homePageLink{
+    color: yellow;
+    text-decoration: underline;
+}
